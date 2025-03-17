@@ -16,7 +16,7 @@
     "gaming (souls-like, indies & horror)",
     "animes/manga (because reality is overrated)"
   ],
-  "editor": "gnu emacs (yep, a bit weird.)",
+  "editor": "gnu emacs (yep, I'm a little weird.)",
   "languages": [
     "portuguese (Brazilian, duh)",
     "english",
