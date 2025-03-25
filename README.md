@@ -5,29 +5,28 @@
 ```json
 {
   "name": "allma",
-  "bio": "I'm a software developer with a passion for open-source, coding, and all things tech.",
+  "bio": "software developer, open-source enthusiast, and tech lover.",
   "contact": {
     "email": "contact@robertnogueira.com",
     "github": "https://github.com/robert-nogueira"
   },
   "hobbies": [
-    "programming (code = cheaper than therapy)",
-    "music (mostly rock & indie)",
+    "programming (code > therapy)",
+    "music (rock & indie)",
     "gaming (souls-like, indies & horror)",
-    "animes/manga (because reality is overrated)"
+    "animes/manga (reality's overrated)"
   ],
-  "editor": "gnu emacs (yep, I'm a little weird.)",
+  "editor": "gnu emacs (vim's cute, but I need more)",
   "languages": [
-    "portuguese (Brazilian, duh)",
-    "english",
-    "french (learning, not fluent)"
+    "portuguese (Brazilian)",
+    "english"
   ],
   "os": "arch linux",
   "dotfiles": {
-    "description": "My personal dotfiles setup for Emacs, terminal configs, & dev tools.",
+    "description": "my personal dotfiles setup for emacs, terminal configs & dev tools.",
     "repo": "https://github.com/robert-nogueira/.dotfiles"
   },
-  "fun-fact": "I’m a professional procrastinator. I just put off everything... except coding!"
+  "fun-fact": "I love cats, like, for real 😺."
 }
 ```
 
@@ -42,16 +41,20 @@
 ---
 
 ### 🚀 Featured Repositories  
-
-<div display="flex">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=squarecloudofc&repo=sdk-api-py&show_owner=true&theme=radical" />  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Robert-Nogueira&repo=tuicord&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Robert-Nogueira&repo=.dotfiles&theme=radical" />
-
+<div style="display: flex;">
+  <a href="https://github.com/robert-nogueira/awesome-py-project-template" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robert-nogueira&repo=awesome-py-project-template&theme=radical" />
+  </a>
+  <a href="https://github.com/Robert-Nogueira/mydotfiles" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robert-nogueira&repo=mydotfiles&theme=radical" />
+  </a>
+  <a href="https://github.com/squarecloudofc/sdk-api-py" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=squarecloudofc&repo=sdk-api-py&show_owner=true&theme=radical" />
+  </a>
+  <a href="https://github.com/Robert-Nogueira/tuicord" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robert-nogueira&repo=tuicord&theme=radical" />
+  </a>
 </div>
 
 ### 📬 Contact
 [contact@robertnogueira.com](mailto:contact@robertnogueira.com)
-
-
