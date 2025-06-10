@@ -12,7 +12,7 @@
   },
   "hobbies": [
     "programming (code > therapy)",
-    "music (rock & indie)",
+    "music (rock alternative & indie)",
     "gaming (souls-like, indies & horror)",
     "animes/manga (reality's overrated)"
   ],
@@ -30,17 +30,27 @@
 }
 ```
 
+```diff
+❤️ Passionate about building robust and scalable backend systems.
+My main focus is on Python for backend web development, but I'm always exploring new tools and technologies.
+
+🔥 Main stack: Python (FastAPI, SQLAlchemy, Celery), PostgreSQL and familiar with MongoDB
+☁️ Deployment/Ops: Docker
+🧑‍💻 Also working with: TypeScript, Next.js (basic stuff)
+🦀 Currently learning: Rust
+```
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=14&duration=2000&pause=2000&color=D2A8FF&vCenter=true&width=700&lines=%24+emacs+~%2F.emacs.d%2Finit.el+%26%26+echo+%22I%E2%80%99m+configuring+the+universe%22;%24+sudo+pacman+-S+python-pipx+%26%26+pipx+install+allma;%24+allma+--run+%26%26+echo+%22Ready+to+conquer+the+world%22;%24+rm+-rf+%2F+%26%26+sudo+reboot)
 
 ---
 
-### 📊 GitHub Activity  
+Thanks for stopping by! Feel free to check out my repos or reach out if you want to connect.
+[contact@robertnogueira.com](mailto:contact@robertnogueira.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Robert-Nogueira&show_icons=true&theme=radical" />
+<details>
 
----
+<summary>🚀 Featured Repositories</summary>
 
-### 🚀 Featured Repositories  
 <div style="display: flex;">
   <a href="https://github.com/robert-nogueira/awesome-py-project-template" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=robert-nogueira&repo=awesome-py-project-template&theme=radical" />
@@ -56,5 +66,4 @@
   </a>
 </div>
 
-### 📬 Contact
-[contact@robertnogueira.com](mailto:contact@robertnogueira.com)
+</details>
