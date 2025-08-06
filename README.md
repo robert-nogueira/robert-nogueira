@@ -44,13 +44,6 @@ My main focus is on Python for backend web development, but I'm always exploring
 
 ---
 
-Thanks for stopping by! Feel free to check out my repos or reach out if you want to connect.
-[contact@robertnogueira.com](mailto:contact@robertnogueira.com)
-
-<details>
-
-<summary>🚀 Featured Repositories</summary>
-
 <div style="display: flex;">
   <a href="https://github.com/robert-nogueira/awesome-py-project-template" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=robert-nogueira&repo=awesome-py-project-template&theme=radical" />
@@ -66,4 +59,7 @@ Thanks for stopping by! Feel free to check out my repos or reach out if you want
   </a>
 </div>
 
-</details>
+---
+
+Thanks for stopping by! Feel free to check out my repos or reach out if you want to connect.
+[contact@robertnogueira.com](mailto:contact@robertnogueira.com)
