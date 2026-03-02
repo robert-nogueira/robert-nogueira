@@ -39,14 +39,12 @@ My main focus is on Python for backend web development, but I'm always exploring
 🦀 Currently learning: Rust
 ```
 
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=&preferLogin=false&borderRadius=0&Border=CBA6F7&Ring=CBA6F7&Background=181825">
-    <img 
-      alt="robert-nogueira's GitHub Stats"
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/robert-nogueira?cardType=level-alternate&theme=tokyonight&fontFamily=&preferLogin=false&borderRadius=0&Border=CBA6F7&Ring=CBA6F7&Background=181825"
-    />
-  </a>
-</p>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=&preferLogin=false&borderRadius=0&Border=CBA6F7&Ring=CBA6F7&Background=181825">
+  <img 
+    alt="robert-nogueira's GitHub Stats"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/robert-nogueira?cardType=level-alternate&theme=tokyonight&fontFamily=&preferLogin=false&borderRadius=0&Border=CBA6F7&Ring=CBA6F7&Background=181825"
+  />
+</a>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=14&duration=2000&pause=2000&color=D2A8FF&vCenter=true&width=700&lines=%24+emacs+~%2F.emacs.d%2Finit.el+%26%26+echo+%22I%E2%80%99m+configuring+the+universe%22;%24+sudo+pacman+-S+python-pipx+%26%26+pipx+install+allma;%24+allma+--run+%26%26+echo+%22Ready+to+conquer+the+world%22;%24+rm+-rf+%2F+%26%26+sudo+reboot)
 
